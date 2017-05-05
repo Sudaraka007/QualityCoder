@@ -1,0 +1,5 @@
+projectKey=sonar.QualityCoder.Calculator
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/sonar.QualityCoder.Calculator
+ceTaskId=AVvX7k4ZCX43DCtE7J8_
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVvX7k4ZCX43DCtE7J8_
